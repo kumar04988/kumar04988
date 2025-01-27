@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm from the India, currently in the South 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing code for software development 💻. When I'm not crushing bugs or building dreams, I can be found readig books 📖, lifting weights 🏋️.
+I'm from the India, currently in the South 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing code for any interesting software application 💻. When I'm not crushing bugs or building dreams, I can be found readig books 📖, lifting weights 🏋️.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning app deployments
