@@ -7,7 +7,7 @@ I'm from the India, currently in the South 🌎. I'm a huge fan of Node.js, Type
 - 🤔 I’m looking for help with finding similar passion.
 - 💬 Ask me about anything.
 - 📫 How to reach me test@gmail.com
-- Checkout my new releases [here](https://scan8.netlify.app)
+- Checkout my new releases [here](https://sk-projects.netlify.app)
 
 <!--
 **kumar04988/kumar04988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
