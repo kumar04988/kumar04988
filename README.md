@@ -6,7 +6,7 @@ I'm from the India, currently in the South 🌎. I'm a huge fan of Node.js, Type
 - 👯 I’m looking to collaborate on big projects.
 - 🤔 I’m looking for help with finding similar passion.
 - 💬 Ask me about anything.
-- 📫 How to reach me test@gmail.com
+- 📫 How to reach me kumarsatish88970@gmail.com
 - Checkout my new releases [here](https://sk-projects.netlify.app)
 
 <!--
